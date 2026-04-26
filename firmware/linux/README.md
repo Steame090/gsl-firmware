@@ -17,6 +17,7 @@ simply copy the silead directory to /lib/firmware/silead:
 
 | Filename                               | For use with |
 |----------------------------------------|--------------|
+| gsl1680-kiano-intelectx3hd.fw          | Kiano Intelect X3 HD |
 | gsl1680-a082-q8-700.fw                 | Allwinner SoC Q8 tablets (https://linux-sunxi.org/Format_Q8) with a gsl1680 with chip-id a082, variant 0 |
 | gsl1680-a082-q8-a70.fw                 | Allwinner SoC Q8 tablets (https://linux-sunxi.org/Format_Q8) with a gsl1680 with chip-id a082, variant 1 |
 | gsl1680-archos-101-cesium-educ.fw      | Archos 101 Cesium Educ tablets |
